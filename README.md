@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mradul Garg</h1>
 <h3 align="center">A passionate software developer</h3> 
 <h3 align="center"> Currently immersed in Software Development, eager to learn and grow.
-I love exploring various technologies and frameworks to enhance my skills. 🌱</h3>
+I love exploring various technologies and frameworks to enhance my skills. 💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulgarg&label=Profile%20views&color=0e75b6&style=flat" alt="mradulgarg" /> </p>
 <p align="left"> <a href="https://twitter.com/@mradulgarg0809" target="blank"><img src="https://img.shields.io/twitter/follow/@mradulgarg0809?logo=twitter&style=for-the-badge" alt="@mradulgarg0809" /></a> </p>
