@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Mradul Garg</h1>
 <h3>Creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.💻 </h3>
-<h4>Visit My Portfolio: <a href="https://mradul-portfolio.vercel.app/"></a></h4>
+<h4>Visit My Portfolio: <a href="https://mradul-portfolio.vercel.app/">https://mradul-portfolio.vercel.app/</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mradulgarg&label=Profile%20views&color=0e75b6&style=flat" alt="mradulgarg" /> </p>
 <p align="left"> <a href="https://twitter.com/@mradulgarg0809" target="blank"><img src="https://img.shields.io/twitter/follow/@mradulgarg0809?logo=twitter&style=for-the-badge" alt="@mradulgarg0809" /></a> </p>
